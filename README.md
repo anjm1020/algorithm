@@ -1,1 +1,1 @@
-# SOLVED CLASS 정복기
+알고리즘
