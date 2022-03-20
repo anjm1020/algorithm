@@ -1,1 +1,1 @@
-알고리즘
+### solved class 양치기
